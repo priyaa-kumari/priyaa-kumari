@@ -8,6 +8,6 @@
       -Frontend Development: Creating responsive and interactive web pages using HTML, CSS, and JavaScript.
   
 -📫
-Feel free to reach out via Email - priyakbaghel79@gmail.com or connect with me on LinkedIn - Priya Kumari.
+Feel free to reach out via Email - priyakbaghel79@gmail.com or connect with me on LinkedIn - http://www.linkedin.com/in/priyaa-kumari
 
 
